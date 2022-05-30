@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:ignore="ExtraText">
+
+    <TextView
+        android:id="@+id/bannerPersonMail"
+        android:layout_width="172dp"
+        android:layout_height="39dp"
+        android:layout_above="@+id/bannerText2"
+        android:layout_alignEnd="@+id/bannerText2"
+        android:layout_alignParentStart="true"
+        android:layout_marginStart="0dp"
+        android:layout_marginEnd="0dp"
+        android:layout_marginBottom="0dp"
+        android:ems="10"
+        android:gravity="center"
+        android:inputType="textPersonName"
+        android:text="person_mail@gmail.com"
+        android:textColor="@color/buttonColor"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/BannerPersonName"
+        tools:ignore="LabelFor,UnknownId" />
+
+
+    <EditText
+
+        android:id="@+id/bannerPersonName"
+        android:layout_width="wrap_content"
+        android:layout_height="43dp"
+        android:layout_above="@+id/bannerPersonMail"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentTop="true"
+        android:layout_marginStart="0dp"
+        android:layout_marginTop="0dp"
+        android:layout_marginEnd="0dp"
+        android:layout_marginBottom="0dp"
+        android:layout_toStartOf="@+id/bannerPhoto"
+        android:background="@drawable/back"
+        android:ems="10"
+        android:inputType="textPersonName"
+        android:text="Person_name"
+        android:textColor="@color/buttonColor"
+        android:gravity="center"
+        android:textSize="25dp"
+        app:layout_constraintEnd_toStartOf="@+id/BannerPhoto"
+        app:layout_constraintHorizontal_bias="1.0"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        tools:ignore="LabelFor,TextViewEdits" />
+
+    <TextView
+        android:id="@+id/bannerText2"
+        android:layout_width="170dp"
+        android:layout_height="wrap_content"
+        android:layout_above="@+id/BannerListOfInterests1"
+        android:layout_alignParentStart="true"
+        android:layout_marginStart="0dp"
+        android:layout_marginEnd="0dp"
+        android:layout_marginBottom="0dp"
+        android:layout_toStartOf="@+id/bannerPhoto"
+        android:gravity="center"
+        android:textColor="@color/buttonColor"
+        android:text="@string/interests"
+        app:layout_constraintBottom_toTopOf="@+id/BannerListOfInterests1"
+        app:layout_constraintStart_toStartOf="parent" />
+
+    <ListView
+        android:id="@+id/BannerListOfInterests1"
+        android:layout_width="166dp"
+        android:layout_height="307dp"
+        android:layout_above="@+id/SkipButton"
+        android:layout_alignParentStart="true"
+        android:layout_marginStart="0dp"
+        android:layout_marginEnd="0dp"
+        android:layout_marginBottom="0dp"
+        android:layout_toStartOf="@+id/bannerPhoto"
+        android:background="@drawable/back"
+        app:layout_constraintBottom_toBottomOf="@+id/BannerPhoto"
+        app:layout_constraintEnd_toStartOf="@+id/BannerPhoto"
+        app:layout_constraintHorizontal_bias="0.0"
+        app:layout_constraintStart_toStartOf="parent"
+        tools:ignore="UnknownId,UnknownIdInLayout"
+        android:textColor="@color/buttonColor"/>
+
+    <ImageView
+        android:id="@+id/bannerPhoto"
+        android:layout_width="237dp"
+        android:layout_height="415dp"
+        android:layout_above="@+id/SkipButton"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentEnd="true"
+        android:layout_marginTop="0dp"
+        android:layout_marginEnd="0dp"
+        android:layout_marginBottom="0dp"
+        android:background="@drawable/back"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        tools:srcCompat="@tools:sample/avatars" />
+
+    <Button
+        android:id="@+id/SkipButton"
+        android:layout_width="205dp"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/bannerAboutMe"
+        android:layout_alignParentEnd="true"
+        android:layout_alignParentBottom="true"
+        android:layout_marginTop="0dp"
+        android:layout_marginEnd="0dp"
+        android:layout_marginBottom="51dp"
+        android:background="@drawable/rounded_edittext"
+        android:backgroundTint="@color/buttonColor"
+        android:text="Skip"
+        android:textColor="#FFFFFF"
+        tools:ignore="UnknownId,UnknownIdInLayout" />
+
+    <Button
+        android:id="@+id/LikeButton"
+        android:layout_width="205dp"
+        android:layout_height="wrap_content"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentBottom="true"
+        android:layout_marginStart="5dp"
+        android:layout_marginEnd="-5dp"
+        android:layout_marginBottom="50dp"
+        android:layout_toStartOf="@+id/SkipButton"
+        android:background="@drawable/rounded_edittext"
+        android:backgroundTint="@color/buttonColor"
+        android:text="Add"
+        android:textColor="#FFFFFF" />
+</RelativeLayout>
