@@ -1,0 +1,30 @@
+﻿  bullet.cpp
+  enemy.cpp
+C:\Users\denis\Desktop\для резюме\Finderest\C++\GAME\GAME\enemy.cpp(18,41): warning C4244: аргумент: преобразование "unsigned int" в "float", возможна потеря данных
+  Enemy02.cpp
+  game.cpp
+C:\Users\denis\Desktop\для резюме\Finderest\C++\GAME\GAME\game.cpp(64,42): warning C4244: аргумент: преобразование "float" в "T", возможна потеря данных
+          with
+          [
+              T=int
+          ]
+C:\Users\denis\Desktop\для резюме\Finderest\C++\GAME\GAME\game.cpp(64,35): warning C4244: аргумент: преобразование "float" в "T", возможна потеря данных
+          with
+          [
+              T=int
+          ]
+C:\Users\denis\Desktop\для резюме\Finderest\C++\GAME\GAME\game.cpp(64,28): warning C4244: аргумент: преобразование "double" в "T", возможна потеря данных
+          with
+          [
+              T=int
+          ]
+C:\Users\denis\Desktop\для резюме\Finderest\C++\GAME\GAME\game.cpp(64,21): warning C4244: аргумент: преобразование "double" в "T", возможна потеря данных
+          with
+          [
+              T=int
+          ]
+  main.cpp
+  player.cpp
+  stdafx.cpp
+  Создание кода...
+  GAME.vcxproj -> C:\Users\denis\Desktop\для резюме\Finderest\C++\GAME\x64\Debug\GAME.exe

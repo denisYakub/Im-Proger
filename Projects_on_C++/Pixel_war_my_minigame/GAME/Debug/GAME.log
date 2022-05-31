@@ -1,0 +1,3 @@
+﻿  game.cpp
+C:\Users\denis\source\repos\GAME\GAME\game.cpp(294,20): warning C4018: <: несоответствие типов со знаком и без знака
+  GAME.vcxproj -> C:\Users\denis\source\repos\GAME\Debug\GAME.exe
