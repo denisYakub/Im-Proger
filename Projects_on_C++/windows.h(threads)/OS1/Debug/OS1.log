@@ -1,0 +1,5 @@
+﻿  OS1.cpp
+C:\Users\denis\source\repos\OS\OS1\OS1.cpp(120,43): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\denis\source\repos\OS\OS1\OS1.cpp(105,7): warning C4101: str: неиспользованная локальная переменная
+C:\Users\denis\source\repos\OS\OS1\OS1.cpp(154,7): warning C4101: str: неиспользованная локальная переменная
+  OS1.vcxproj -> C:\Users\denis\source\repos\OS\Debug\OS1.exe

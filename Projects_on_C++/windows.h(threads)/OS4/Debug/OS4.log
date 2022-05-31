@@ -1,0 +1,3 @@
+﻿  OS4.cpp
+C:\Users\denis\source\repos\OS\OS4\OS4.cpp(59,1): warning C4326: возвращаемый тип "wmain" должен быть "int", а не "void"
+  OS4.vcxproj -> C:\Users\denis\source\repos\OS\Debug\OS4.exe

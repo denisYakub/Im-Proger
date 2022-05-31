@@ -1,0 +1,4 @@
+﻿  OS2.cpp
+C:\Users\denis\source\repos\OS\OS2\OS2.cpp(25,23): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\denis\source\repos\OS\OS2\OS2.cpp(53,23): warning C4018: <: несоответствие типов со знаком и без знака
+  OS2.vcxproj -> C:\Users\denis\source\repos\OS\Debug\OS2.exe
