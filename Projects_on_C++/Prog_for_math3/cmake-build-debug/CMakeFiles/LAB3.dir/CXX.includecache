@@ -1,0 +1,32 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/denis/CLionProjects/LAB3/cmath.h
+
+C:/Users/denis/CLionProjects/LAB3/main.cpp
+iostream
+-
+cmath
+-
+iostream
+-
+iomanip
+-
+rkf45.c
+C:/Users/denis/CLionProjects/LAB3/rkf45.c
+
+C:/Users/denis/CLionProjects/LAB3/rkf45.c
+cmath.h
+C:/Users/denis/CLionProjects/LAB3/cmath.h
+stdlib.h
+-
+stdio.h
+-
+math.h
+-
+

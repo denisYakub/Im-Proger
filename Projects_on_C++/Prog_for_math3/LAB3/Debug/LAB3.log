@@ -1,0 +1,65 @@
+﻿  LAB3.cpp
+C:\Users\denis\source\repos\LAB3\LAB3\cmath.h(133,61): warning C4091: typedef : пропускается слева от "polynomial", когда ни одна переменная не объявлена
+C:\Users\denis\source\repos\LAB3\LAB3\cmath.h(141,49): warning C4091: typedef : пропускается слева от "COMPLEX", когда ни одна переменная не объявлена
+C:\Users\denis\source\repos\LAB3\LAB3\cmath.h(154,2): warning C4091: typedef : пропускается слева от "BSPLSTRC", когда ни одна переменная не объявлена
+C:\Users\denis\source\repos\LAB3\LAB3\rkf45.cpp(431,17): error C2561: rkf45: функция должна возвращать значение
+C:\Users\denis\source\repos\LAB3\LAB3\rkf45.cpp(191): message : см. объявление "rkf45"
+C:\Users\denis\source\repos\LAB3\LAB3\rkf45.cpp(432,44): error C2561: rkf45: функция должна возвращать значение
+C:\Users\denis\source\repos\LAB3\LAB3\rkf45.cpp(191): message : см. объявление "rkf45"
+C:\Users\denis\source\repos\LAB3\LAB3\rkf45.cpp(434,36): error C2561: rkf45: функция должна возвращать значение
+C:\Users\denis\source\repos\LAB3\LAB3\rkf45.cpp(191): message : см. объявление "rkf45"
+C:\Users\denis\source\repos\LAB3\LAB3\rkf45.cpp(439,40): error C2561: rkf45: функция должна возвращать значение
+C:\Users\denis\source\repos\LAB3\LAB3\rkf45.cpp(191): message : см. объявление "rkf45"
+C:\Users\denis\source\repos\LAB3\LAB3\rkf45.cpp(504,5): error C2561: rkf45: функция должна возвращать значение
+C:\Users\denis\source\repos\LAB3\LAB3\rkf45.cpp(191): message : см. объявление "rkf45"
+C:\Users\denis\source\repos\LAB3\LAB3\rkf45.cpp(527,7): error C2561: rkf45: функция должна возвращать значение
+C:\Users\denis\source\repos\LAB3\LAB3\rkf45.cpp(191): message : см. объявление "rkf45"
+C:\Users\denis\source\repos\LAB3\LAB3\rkf45.cpp(560,5): error C2561: rkf45: функция должна возвращать значение
+C:\Users\denis\source\repos\LAB3\LAB3\rkf45.cpp(191): message : см. объявление "rkf45"
+C:\Users\denis\source\repos\LAB3\LAB3\rkf45.cpp(572,5): error C2561: rkf45: функция должна возвращать значение
+C:\Users\denis\source\repos\LAB3\LAB3\rkf45.cpp(191): message : см. объявление "rkf45"
+C:\Users\denis\source\repos\LAB3\LAB3\rkf45.cpp(644,5): error C2561: rkf45: функция должна возвращать значение
+C:\Users\denis\source\repos\LAB3\LAB3\rkf45.cpp(191): message : см. объявление "rkf45"
+C:\Users\denis\source\repos\LAB3\LAB3\rkf45.cpp(662,7): error C2561: rkf45: функция должна возвращать значение
+C:\Users\denis\source\repos\LAB3\LAB3\rkf45.cpp(191): message : см. объявление "rkf45"
+C:\Users\denis\source\repos\LAB3\LAB3\rkf45.cpp(686,7): error C2561: rkf45: функция должна возвращать значение
+C:\Users\denis\source\repos\LAB3\LAB3\rkf45.cpp(191): message : см. объявление "rkf45"
+C:\Users\denis\source\repos\LAB3\LAB3\rkf45.cpp(721,5): error C2561: rkf45: функция должна возвращать значение
+C:\Users\denis\source\repos\LAB3\LAB3\rkf45.cpp(191): message : см. объявление "rkf45"
+C:\Users\denis\source\repos\LAB3\LAB3\rkf45.cpp(728,5): error C2561: rkf45: функция должна возвращать значение
+C:\Users\denis\source\repos\LAB3\LAB3\rkf45.cpp(191): message : см. объявление "rkf45"
+C:\Users\denis\source\repos\LAB3\LAB3\rkf45.cpp(816,3): error C2561: fehl45: функция должна возвращать значение
+C:\Users\denis\source\repos\LAB3\LAB3\rkf45.cpp(743): message : см. объявление "fehl45"
+  rkf45.cpp
+C:\Users\denis\source\repos\LAB3\LAB3\cmath.h(133,61): warning C4091: typedef : пропускается слева от "polynomial", когда ни одна переменная не объявлена
+C:\Users\denis\source\repos\LAB3\LAB3\cmath.h(141,49): warning C4091: typedef : пропускается слева от "COMPLEX", когда ни одна переменная не объявлена
+C:\Users\denis\source\repos\LAB3\LAB3\cmath.h(154,2): warning C4091: typedef : пропускается слева от "BSPLSTRC", когда ни одна переменная не объявлена
+C:\Users\denis\source\repos\LAB3\LAB3\rkf45.cpp(431,17): error C2561: rkf45: функция должна возвращать значение
+C:\Users\denis\source\repos\LAB3\LAB3\rkf45.cpp(191): message : см. объявление "rkf45"
+C:\Users\denis\source\repos\LAB3\LAB3\rkf45.cpp(432,44): error C2561: rkf45: функция должна возвращать значение
+C:\Users\denis\source\repos\LAB3\LAB3\rkf45.cpp(191): message : см. объявление "rkf45"
+C:\Users\denis\source\repos\LAB3\LAB3\rkf45.cpp(434,36): error C2561: rkf45: функция должна возвращать значение
+C:\Users\denis\source\repos\LAB3\LAB3\rkf45.cpp(191): message : см. объявление "rkf45"
+C:\Users\denis\source\repos\LAB3\LAB3\rkf45.cpp(439,40): error C2561: rkf45: функция должна возвращать значение
+C:\Users\denis\source\repos\LAB3\LAB3\rkf45.cpp(191): message : см. объявление "rkf45"
+C:\Users\denis\source\repos\LAB3\LAB3\rkf45.cpp(504,5): error C2561: rkf45: функция должна возвращать значение
+C:\Users\denis\source\repos\LAB3\LAB3\rkf45.cpp(191): message : см. объявление "rkf45"
+C:\Users\denis\source\repos\LAB3\LAB3\rkf45.cpp(527,7): error C2561: rkf45: функция должна возвращать значение
+C:\Users\denis\source\repos\LAB3\LAB3\rkf45.cpp(191): message : см. объявление "rkf45"
+C:\Users\denis\source\repos\LAB3\LAB3\rkf45.cpp(560,5): error C2561: rkf45: функция должна возвращать значение
+C:\Users\denis\source\repos\LAB3\LAB3\rkf45.cpp(191): message : см. объявление "rkf45"
+C:\Users\denis\source\repos\LAB3\LAB3\rkf45.cpp(572,5): error C2561: rkf45: функция должна возвращать значение
+C:\Users\denis\source\repos\LAB3\LAB3\rkf45.cpp(191): message : см. объявление "rkf45"
+C:\Users\denis\source\repos\LAB3\LAB3\rkf45.cpp(644,5): error C2561: rkf45: функция должна возвращать значение
+C:\Users\denis\source\repos\LAB3\LAB3\rkf45.cpp(191): message : см. объявление "rkf45"
+C:\Users\denis\source\repos\LAB3\LAB3\rkf45.cpp(662,7): error C2561: rkf45: функция должна возвращать значение
+C:\Users\denis\source\repos\LAB3\LAB3\rkf45.cpp(191): message : см. объявление "rkf45"
+C:\Users\denis\source\repos\LAB3\LAB3\rkf45.cpp(686,7): error C2561: rkf45: функция должна возвращать значение
+C:\Users\denis\source\repos\LAB3\LAB3\rkf45.cpp(191): message : см. объявление "rkf45"
+C:\Users\denis\source\repos\LAB3\LAB3\rkf45.cpp(721,5): error C2561: rkf45: функция должна возвращать значение
+C:\Users\denis\source\repos\LAB3\LAB3\rkf45.cpp(191): message : см. объявление "rkf45"
+C:\Users\denis\source\repos\LAB3\LAB3\rkf45.cpp(728,5): error C2561: rkf45: функция должна возвращать значение
+C:\Users\denis\source\repos\LAB3\LAB3\rkf45.cpp(191): message : см. объявление "rkf45"
+C:\Users\denis\source\repos\LAB3\LAB3\rkf45.cpp(816,3): error C2561: fehl45: функция должна возвращать значение
+C:\Users\denis\source\repos\LAB3\LAB3\rkf45.cpp(743): message : см. объявление "fehl45"
+  Создание кода...
