@@ -1,0 +1,5 @@
+﻿  Source.cpp
+C:\Users\denis\source\repos\LabWork6\LabWork6\Queue.h(2,10): warning C4067: непредвиденные лексемы за директивой препроцессора, требуется newline
+C:\Users\denis\source\repos\LabWork6\LabWork6\Source.cpp(2,10): warning C4067: непредвиденные лексемы за директивой препроцессора, требуется newline
+C:\Users\denis\source\repos\LabWork6\LabWork6\Queue.h(112): warning C4715: Queue<BinarySearchTree<int>::Node *>::deQueue: значение возвращается не при всех путях выполнения
+  LabWork6.vcxproj -> C:\Users\denis\source\repos\LabWork6\Debug\LabWork6.exe
