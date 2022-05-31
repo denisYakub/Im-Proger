@@ -1,0 +1,30 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/denis/CLionProjects/LAB2/cmath.h
+
+C:/Users/denis/CLionProjects/LAB2/decomp.c
+cmath.h
+C:/Users/denis/CLionProjects/LAB2/cmath.h
+stdlib.h
+-
+stdio.h
+-
+math.h
+-
+
+C:/Users/denis/CLionProjects/LAB2/main.cpp
+iostream
+-
+cmath
+-
+iomanip
+-
+decomp.c
+C:/Users/denis/CLionProjects/LAB2/decomp.c
+
