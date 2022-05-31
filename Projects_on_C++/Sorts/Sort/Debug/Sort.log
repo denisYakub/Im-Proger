@@ -1,0 +1,11 @@
+﻿  Main.cpp
+  Sorts.cpp
+C:\Users\denis\source\repos\Sort\Sort\Sorts.cpp(186,19): warning C4244: инициализация: преобразование "double" в "int", возможна потеря данных
+C:\Users\denis\source\repos\Sort\Sort\Sorts.cpp(186,63): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+C:\Users\denis\source\repos\Sort\Sort\Sorts.cpp(209,54): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+C:\Users\denis\source\repos\Sort\Sort\Sorts.cpp(212,60): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+  Test.cpp
+  Создание кода...
+C:\Users\denis\source\repos\Sort\Sort\List.h(47): warning C4715: List<int>::operator+=: значение возвращается не при всех путях выполнения
+C:\Users\denis\source\repos\Sort\Sort\List.h(47): warning C4715: List<double>::operator+=: значение возвращается не при всех путях выполнения
+  Sort.vcxproj -> C:\Users\denis\source\repos\Sort\Debug\Sort.exe

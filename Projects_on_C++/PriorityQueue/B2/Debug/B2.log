@@ -1,0 +1,4 @@
+﻿  main.cpp
+C:\Users\denis\source\repos\B2\B2\main.cpp(13,23): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\denis\source\repos\B2\B2\main.cpp(24,9): warning C4018: <: несоответствие типов со знаком и без знака
+  B2.vcxproj -> C:\Users\denis\source\repos\B2\Debug\B2.exe
