@@ -1,0 +1,12 @@
+﻿  MM.cpp
+C:\Users\denis\source\repos\MM\MM\MM.cpp(239,40): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+C:\Users\denis\source\repos\MM\MM\MM.cpp(178,53): warning C4101: r13: неиспользованная локальная переменная
+C:\Users\denis\source\repos\MM\MM\MM.cpp(178,34): warning C4101: dum1: неиспользованная локальная переменная
+C:\Users\denis\source\repos\MM\MM\MM.cpp(178,28): warning C4101: q: неиспользованная локальная переменная
+C:\Users\denis\source\repos\MM\MM\MM.cpp(178,22): warning C4101: disc: неиспользованная локальная переменная
+C:\Users\denis\source\repos\MM\MM\MM.cpp(178,40): warning C4101: s: неиспользованная локальная переменная
+C:\Users\denis\source\repos\MM\MM\MM.cpp(178,46): warning C4101: term1: неиспользованная локальная переменная
+C:\Users\denis\source\repos\MM\MM\MM.cpp(178,43): warning C4101: t: неиспользованная локальная переменная
+C:\Users\denis\source\repos\MM\MM\MM.cpp(178,31): warning C4101: r: неиспользованная локальная переменная
+C:\Users\denis\source\repos\MM\MM\MM.cpp(178,19): warning C4101: d: неиспользованная локальная переменная
+  MM.vcxproj -> C:\Users\denis\source\repos\MM\Debug\MM.exe

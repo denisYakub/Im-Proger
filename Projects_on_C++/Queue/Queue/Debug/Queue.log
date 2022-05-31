@@ -1,0 +1,7 @@
+﻿  Queue.cpp
+C:\Users\denis\source\repos\Queue\Queue\Queue.cpp(1,10): warning C4067: непредвиденные лексемы за директивой препроцессора, требуется newline
+C:\Users\denis\source\repos\Queue\Queue\Tests.h(2,9): warning C4067: непредвиденные лексемы за директивой препроцессора, требуется newline
+C:\Users\denis\source\repos\Queue\Queue\QueueList.h(2,10): warning C4067: непредвиденные лексемы за директивой препроцессора, требуется newline
+C:\Users\denis\source\repos\Queue\Queue\Tests.h(3,10): warning C4067: непредвиденные лексемы за директивой препроцессора, требуется newline
+C:\Users\denis\source\repos\Queue\Queue\QueueList.h(114): warning C4715: QueueList<int>::deQueueList: значение возвращается не при всех путях выполнения
+  Queue.vcxproj -> C:\Users\denis\source\repos\Queue\Debug\Queue.exe
