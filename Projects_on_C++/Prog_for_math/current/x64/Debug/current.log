@@ -1,0 +1,7 @@
+﻿  Class.cpp
+C:\Users\denis\Desktop\для резюме\Finderest\C++\current\current\Class.cpp(149,25): warning C4267: return: преобразование из "size_t" в "int"; возможна потеря данных
+  current.cpp
+  Forsythe.cpp
+  Source.cpp
+  Создание кода...
+  current.vcxproj -> C:\Users\denis\Desktop\для резюме\Finderest\C++\current\x64\Debug\current.exe
